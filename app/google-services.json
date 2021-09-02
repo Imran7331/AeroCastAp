@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318112535229",
+    "project_id": "aerocastapp-1630501580853",
+    "storage_bucket": "aerocastapp-1630501580853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318112535229:android:4f9809e156181e84de9dd4",
+        "android_client_info": {
+          "package_name": "com.example.aerocastapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318112535229-afsdbbgra1hd23rvbm0l5nljaontq1qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aerocastapp",
+            "certificate_hash": "9826c91d097ecdf7978546aa9f410cd6ac5b8126"
+          }
+        },
+        {
+          "client_id": "318112535229-k95lrmpq7jstc2gqtg4hj6l5tuaubt3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkK-eFy69-jED7b4NvvCRq7tpR7GcK21E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318112535229-k95lrmpq7jstc2gqtg4hj6l5tuaubt3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
